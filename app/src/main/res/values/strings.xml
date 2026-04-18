@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SalesMan\'sRoute</string>
+    <string name="ec">EG Ajustes</string>
+    <string name="población">Población</string>
+    <string name="mutacion">Mutación (%)</string>
+    <string name="limpiear">Limpiar</string>
+    <string name="borrar">BorrarDB</string>
+</resources>
